@@ -1,382 +1,394 @@
 {
-    "profiles": [{
-      "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa",
-      "name": "A Tribe Called Quest",
-      "image_url": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
-      "followers_count": 2113639,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2i1CPudyCUjL50Wqjv8AMI",
-      "name": "Alfa Mist",
-      "image_url": "https://i.scdn.co/image/ab67616100005174e9aaa766b71aaa18a60e3ca1",
-      "followers_count": 265592,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:6lITXT7V1VIC7nwlgh8ycO",
-      "name": "Beardyman",
-      "image_url": "https://i.scdn.co/image/ab676161000051749b03c6a10c68cb7f98574c92",
-      "followers_count": 25724,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS",
-      "name": "Beck",
-      "image_url": "https://i.scdn.co/image/ab67616100005174917df61d55ce3ab98d43351a",
-      "followers_count": 1546113,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0NnCgUxhtWt1yBtpDyvFQf",
-      "name": "Black Sheep",
-      "image_url": "https://i.scdn.co/image/af4d9c59c3920e2d1af343cd517d666f70867b48",
-      "followers_count": 230262,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2oZcMYiKpjaA2Et5mU3RPP",
-      "name": "Chronixx",
-      "image_url": "https://i.scdn.co/image/ab67616100005174ff811e1e25b9cf99dc4e544f",
-      "followers_count": 544543,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc",
-      "name": "Common",
-      "image_url": "https://i.scdn.co/image/ab676161000051746354c88f58d8a99b91e0d965",
-      "followers_count": 945139,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:336vr2M3Va0FjyvB55lJEd",
-      "name": "D\u0027Angelo",
-      "image_url": "https://i.scdn.co/image/684bedc9545de1eb2b3ed1133e9b6f5668775049",
-      "followers_count": 1205748,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0gqIrDRL7CEPBWMmkuZPdQ",
-      "name": "Digable Planets",
-      "image_url": "https://i.scdn.co/image/580100ab1befd3cdbcd90f2aa2b7d98a3da8c0f3",
-      "followers_count": 425253,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3wc57nV2fGEoM8x4xPK1O9",
-      "name": "Dixon",
-      "image_url": "https://i.scdn.co/image/ab6761610000517441f62c7b289ea3307750179b",
-      "followers_count": 89373,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0S1SjYebdSaiMpI8xSW2Wb",
-      "name": "Donald Fagen",
-      "image_url": "https://i.scdn.co/image/1bd902898aacfb3813f5b139259777246d97e778",
-      "followers_count": 235664,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:7IfculRW2WXyzNQ8djX8WX",
-      "name": "Erykah Badu",
-      "image_url": "https://i.scdn.co/image/ab67616100005174fb1bc9e7ca44d473641b7842",
-      "followers_count": 2892879,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5bepW5vcdRzheNc0F8lHJ5",
-      "name": "Esperanza Spalding",
-      "image_url": "https://i.scdn.co/image/ab67616100005174d9f7984689aaeb5faea64bd7",
-      "followers_count": 381696,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR",
-      "name": "Fishmans",
-      "image_url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
-      "followers_count": 220482,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2FwDTncULUnmANIh7qKa5z",
-      "name": "FKJ",
-      "image_url": "https://i.scdn.co/image/ab67616100005174fa5d216436dd6503ccb46cc1",
-      "followers_count": 1520846,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
-      "name": "Future",
-      "image_url": "https://i.scdn.co/image/ab676161000051746ef89e23678018c6d8630825",
-      "followers_count": 17230585,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5b8TksKkFbG2NoVG8d8YDN",
-      "name": "Greg Wilson",
-      "image_url": "https://i.scdn.co/image/5010b4577ab22d829b88638332fd7866db64d111",
-      "followers_count": 11132,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R",
-      "name": "Henrik Schwarz",
-      "image_url": "https://i.scdn.co/image/ab676161000051742dadd7519c80d380ae0bea08",
-      "followers_count": 62066,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:1f5QPXLfjlzlG77lCkdl0W",
-      "name": "Henry Saiz",
-      "image_url": "https://i.scdn.co/image/ab676161000051743bb34c6e4f804ff4b5638197",
-      "followers_count": 44578,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:4mpJaw5y17CIN08qqe8EfB",
-      "name": "Hernan Cattaneo",
-      "image_url": "https://i.scdn.co/image/ab676161000051742507776e53dd3f3338bf833b",
-      "followers_count": 229468,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y",
-      "name": "Hiatus Kaiyote",
-      "image_url": "https://i.scdn.co/image/ab676161000051749d93bc38b5011e8d921c6c39",
-      "followers_count": 627283,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0IVcLMMbm05VIjnzPkGCyp",
-      "name": "J Dilla",
-      "image_url": "https://i.scdn.co/image/ab67616100005174c68a069a1c70eca57b2828d2",
-      "followers_count": 700258,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:76O0DRobXGao078KT0xci8",
-      "name": "J.Lamotta",
-      "image_url": "https://i.scdn.co/image/ab676161000051740e3073602239d30d0a520279",
-      "followers_count": 20309,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid",
-      "name": "Jamiroquai",
-      "image_url": "https://i.scdn.co/image/ab676161000051747e6dca959714339b69e9718d",
-      "followers_count": 2388749,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:6AVLthptCPhfrxlHadOBJD",
-      "name": "Jill Scott",
-      "image_url": "https://i.scdn.co/image/1097b949e7e6a19b7671a0c9932a552fe307e056",
-      "followers_count": 1761922,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3xnDktxhudJR2Wv3HZDQ9W",
-      "name": "John Digweed",
-      "image_url": "https://i.scdn.co/image/ab676161000051744ef0189e07eec59460b46c17",
-      "followers_count": 160834,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2JWmMcE8Z0vapxOIiT7PLq",
-      "name": "John Tejada",
-      "image_url": "https://i.scdn.co/image/ab67616100005174c75ff0430794224980936e33",
-      "followers_count": 50348,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:4FN8WHqUbwkd97WEjoCu7B",
-      "name": "Justin Martin",
-      "image_url": "https://i.scdn.co/image/ab676161000051745899d87d69bd3d3bc46ccae3",
-      "followers_count": 62953,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0illCOhPkFBykngmCWos6u",
-      "name": "Kaho Nakamura",
-      "image_url": "https://i.scdn.co/image/ab67616100005174bae16e6155788b9211d1dfb2",
-      "followers_count": 108995,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5b3ZFm6P1lpZIASMDnBDs9",
-      "name": "Kan Sano",
-      "image_url": "https://i.scdn.co/image/ab67616100005174dc49ac6859f798563fba2ac0",
-      "followers_count": 73093,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:7nqpEU6DCHkNtK1bYsyS3W",
-      "name": "Kerri Chandler",
-      "image_url": "https://i.scdn.co/image/ab67616100005174a8acffcb0f02a43a54c77f40",
-      "followers_count": 97935,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5lDtfHPqWN6MG9tFywnW8J",
-      "name": "Kiefer",
-      "image_url": "https://i.scdn.co/image/ab6761610000517470162dd2995c2f56b289639c",
-      "followers_count": 97650,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5bt7DkWw4iHzjzRF2d9scU",
-      "name": "La Fleur",
-      "image_url": "https://i.scdn.co/image/ab676161000051748c2564653a39f3c182e43eb1",
-      "followers_count": 16776,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0uNEy4544VZq2KOl7BsLuo",
-      "name": "Lalah Hathaway",
-      "image_url": "https://i.scdn.co/image/ab67616100005174795dd1d70b1b36ec6ba1a76f",
-      "followers_count": 428214,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0334oJHhRSKJRHKpE9i62h",
-      "name": "Lee Burridge",
-      "image_url": "https://i.scdn.co/image/ab67616100005174f7fceafa86a742bc4b01cde5",
-      "followers_count": 73048,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0HfxCluo7N2dhr4oRM0wBv",
-      "name": "Luke Vibert",
-      "image_url": "https://i.scdn.co/image/ab6772690000bac3b6b06ad747c6d92a63f7a511",
-      "followers_count": 61519,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:72udTJKu1pGovvS9aCYGMI",
-      "name": "Marc Rebillet",
-      "image_url": "https://i.scdn.co/image/ab67616100005174ac6f689a8d398c34d3d8a412",
-      "followers_count": 515523,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm",
-      "name": "Michael Jackson",
-      "image_url": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa",
-      "followers_count": 31073817,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG",
-      "name": "Migos",
-      "image_url": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34",
-      "followers_count": 13803406,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2wIVse2owClT7go1WT98tk",
-      "name": "Missy Elliott",
-      "image_url": "https://i.scdn.co/image/ab67616100005174f6691f40d906f097e9fbaa4c",
-      "followers_count": 2463332,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip",
-      "name": "Mr. Scruff",
-      "image_url": "https://i.scdn.co/image/99dd01eee6196f013d31b2799610f29efb500c45",
-      "followers_count": 158786,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0OltT51j3hIkgaDJqqPzDn",
-      "name": "Nicola Cruz",
-      "image_url": "https://i.scdn.co/image/ab676161000051742733b3485f1950bd7874fff6",
-      "followers_count": 360799,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5UmHzVC93nysS4WmTmkTpC",
-      "name": "NËITHER",
-      "image_url": "https://i.scdn.co/image/ab67616100005174fa04544f12298224824098c7",
-      "followers_count": 358,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3fJ60AcIgLzQkVitEvA7uq",
-      "name": "Pete Rock \u0026 C.L. Smooth",
-      "image_url": "https://i.scdn.co/image/70386c40cadc6c9d273557ca41f1c13350ccb405",
-      "followers_count": 280866,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0oBsnAC3fzYkTHF3bkfNx6",
-      "name": "Phony Ppl",
-      "image_url": "https://i.scdn.co/image/ab67616100005174b658dcfdfcaf59488eabcdc2",
-      "followers_count": 281196,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
-      "name": "Polo \u0026 Pan",
-      "image_url": "https://i.scdn.co/image/ab676161000051740e7d21091454cf9d1207a127",
-      "followers_count": 773123,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3GfY5Rtioe0sfZrwpyFdFA",
-      "name": "Ralph Lawson",
-      "image_url": "https://i.scdn.co/image/ed6b9835d0215ba341f8652543eecef02c9df96a",
-      "followers_count": 1220,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3ni9LX95aVQksOuoHFEbEx",
-      "name": "Reggie Watts",
-      "image_url": "https://i.scdn.co/image/fcbd9799cec0d31bc1434e3b05e788290557e317",
-      "followers_count": 72250,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:6u4jLGLPuarS3i2XWHVxoS",
-      "name": "Sasha",
-      "image_url": "https://i.scdn.co/image/ab67616100005174c9896771673b1734fd7741e0",
-      "followers_count": 112076,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3JkLFcTej6tdwZoQT6Nx4B",
-      "name": "Seth Troxler",
-      "image_url": "https://i.scdn.co/image/ab67616100005174ae415c295c042f2193594a8e",
-      "followers_count": 113121,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:1020a42xVklY6c56imNcaa",
-      "name": "Slum Village",
-      "image_url": "https://i.scdn.co/image/ab67616100005174d3e282b54f0709be5376764a",
-      "followers_count": 341379,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:2auiVi8sUZo17dLy1HwrTU",
-      "name": "Solange",
-      "image_url": "https://i.scdn.co/image/ab67616100005174631cf0aa859e5a20e836f14f",
-      "followers_count": 2074067,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0PEfTatx7R08s3nFrn9teD",
-      "name": "Soul Clap",
-      "image_url": "https://i.scdn.co/image/ab67616100005174e376000de4f07b655b1f0ae8",
-      "followers_count": 43019,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y",
-      "name": "Talib Kweli",
-      "image_url": "https://i.scdn.co/image/ab6761610000517439f154678fecfb323d3ef3f9",
-      "followers_count": 599530,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2",
-      "name": "The Beatles",
-      "image_url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
-      "followers_count": 27485940,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:7GN9PivdemQRKjDt4z5Zv8",
-      "name": "The Internet",
-      "image_url": "https://i.scdn.co/image/ab67616100005174c32c5dcda378eb561f81b1f9",
-      "followers_count": 1412152,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5EN5PSLo1TWbgFTQwlxKmz",
-      "name": "The Twilite Tone",
-      "image_url": "https://i.scdn.co/image/ab676161000051741314586d6138d8fc3203f42a",
-      "followers_count": 2413,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0nmnnGl422TngJtYeEj5vD",
-      "name": "Tomita Lab.",
-      "image_url": "https://i.scdn.co/image/ab67616100005174f73cc0a30893b97134195e5f",
-      "followers_count": 46253,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0Yh5vHNrVsgQ9UEcj8Rqss",
-      "name": "Wajatta",
-      "image_url": "https://i.scdn.co/image/ab67616100005174df44afae1adc09dc6e855d11",
-      "followers_count": 16974,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn",
-      "name": "Young Thug",
-      "image_url": "https://i.scdn.co/image/ab67616100005174547d2b41c9f2c97318aad0ed",
-      "followers_count": 9962080,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:0XoDNlIZvfQP47lyLBVIsz",
-      "name": "Zo!",
-      "image_url": "https://i.scdn.co/image/ab6761610000517499c71d76b4b47b62672a0d6b",
-      "followers_count": 38305,
-      "is_following": true
-    }, {
-      "uri": "spotify:artist:5muFO8VqYRCRW13EkvX564",
-      "name": "Âme",
-      "image_url": "https://i.scdn.co/image/ab67616100005174bdaa7ff7e4de683ca80a30e7",
-      "followers_count": 130075,
-      "is_following": true
-    }, {
-      "uri": "spotify:user:11122876409",
-      "name": "Zag Erlat",
-      "image_url": "https://i.scdn.co/image/ab6775700000ee85c4fbe52f657c6272a01d3f90",
-      "followers_count": 28712,
-      "is_following": true,
-      "color": 16737335
-    }]
-  }
+  "profiles": [{
+    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa",
+    "name": "A Tribe Called Quest",
+    "image_url": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
+    "followers_count": 2113639,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2i1CPudyCUjL50Wqjv8AMI",
+    "name": "Alfa Mist",
+    "image_url": "https://i.scdn.co/image/ab67616100005174e9aaa766b71aaa18a60e3ca1",
+    "followers_count": 265592,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:6lITXT7V1VIC7nwlgh8ycO",
+    "name": "Beardyman",
+    "image_url": "https://i.scdn.co/image/ab676161000051749b03c6a10c68cb7f98574c92",
+    "followers_count": 25724,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS",
+    "name": "Beck",
+    "image_url": "https://i.scdn.co/image/ab67616100005174917df61d55ce3ab98d43351a",
+    "followers_count": 1546113,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0NnCgUxhtWt1yBtpDyvFQf",
+    "name": "Black Sheep",
+    "image_url": "https://i.scdn.co/image/af4d9c59c3920e2d1af343cd517d666f70867b48",
+    "followers_count": 230262,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:6mQfAAqZGBzIfrmlZCeaYT",
+    "name": "Chaka Khan",
+    "image_url": "https://i.scdn.co/image/ab6761610000517487b0c6a4811964bd1b7d701f",
+    "followers_count": 1602060,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2oZcMYiKpjaA2Et5mU3RPP",
+    "name": "Chronixx",
+    "image_url": "https://i.scdn.co/image/ab67616100005174ff811e1e25b9cf99dc4e544f",
+    "followers_count": 544543,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2GHclqNVjqGuiE5mA7BEoc",
+    "name": "Common",
+    "image_url": "https://i.scdn.co/image/ab676161000051746354c88f58d8a99b91e0d965",
+    "followers_count": 945139,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:336vr2M3Va0FjyvB55lJEd",
+    "name": "D\u0027Angelo",
+    "image_url": "https://i.scdn.co/image/684bedc9545de1eb2b3ed1133e9b6f5668775049",
+    "followers_count": 1205748,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0gqIrDRL7CEPBWMmkuZPdQ",
+    "name": "Digable Planets",
+    "image_url": "https://i.scdn.co/image/580100ab1befd3cdbcd90f2aa2b7d98a3da8c0f3",
+    "followers_count": 425253,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3wc57nV2fGEoM8x4xPK1O9",
+    "name": "Dixon",
+    "image_url": "https://i.scdn.co/image/ab6761610000517441f62c7b289ea3307750179b",
+    "followers_count": 89373,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0S1SjYebdSaiMpI8xSW2Wb",
+    "name": "Donald Fagen",
+    "image_url": "https://i.scdn.co/image/1bd902898aacfb3813f5b139259777246d97e778",
+    "followers_count": 235664,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:7IfculRW2WXyzNQ8djX8WX",
+    "name": "Erykah Badu",
+    "image_url": "https://i.scdn.co/image/ab67616100005174fb1bc9e7ca44d473641b7842",
+    "followers_count": 2892879,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5bepW5vcdRzheNc0F8lHJ5",
+    "name": "Esperanza Spalding",
+    "image_url": "https://i.scdn.co/image/ab67616100005174d9f7984689aaeb5faea64bd7",
+    "followers_count": 381696,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR",
+    "name": "Fishmans",
+    "image_url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
+    "followers_count": 220482,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2FwDTncULUnmANIh7qKa5z",
+    "name": "FKJ",
+    "image_url": "https://i.scdn.co/image/ab67616100005174fa5d216436dd6503ccb46cc1",
+    "followers_count": 1520846,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
+    "name": "Future",
+    "image_url": "https://i.scdn.co/image/ab676161000051746ef89e23678018c6d8630825",
+    "followers_count": 17230585,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5b8TksKkFbG2NoVG8d8YDN",
+    "name": "Greg Wilson",
+    "image_url": "https://i.scdn.co/image/5010b4577ab22d829b88638332fd7866db64d111",
+    "followers_count": 11132,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R",
+    "name": "Henrik Schwarz",
+    "image_url": "https://i.scdn.co/image/ab676161000051742dadd7519c80d380ae0bea08",
+    "followers_count": 62066,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:1f5QPXLfjlzlG77lCkdl0W",
+    "name": "Henry Saiz",
+    "image_url": "https://i.scdn.co/image/ab676161000051743bb34c6e4f804ff4b5638197",
+    "followers_count": 44578,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:4mpJaw5y17CIN08qqe8EfB",
+    "name": "Hernan Cattaneo",
+    "image_url": "https://i.scdn.co/image/ab676161000051742507776e53dd3f3338bf833b",
+    "followers_count": 229468,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y",
+    "name": "Hiatus Kaiyote",
+    "image_url": "https://i.scdn.co/image/ab676161000051749d93bc38b5011e8d921c6c39",
+    "followers_count": 627283,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0IVcLMMbm05VIjnzPkGCyp",
+    "name": "J Dilla",
+    "image_url": "https://i.scdn.co/image/ab67616100005174c68a069a1c70eca57b2828d2",
+    "followers_count": 700258,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:76O0DRobXGao078KT0xci8",
+    "name": "J.Lamotta",
+    "image_url": "https://i.scdn.co/image/ab676161000051740e3073602239d30d0a520279",
+    "followers_count": 20309,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid",
+    "name": "Jamiroquai",
+    "image_url": "https://i.scdn.co/image/ab676161000051747e6dca959714339b69e9718d",
+    "followers_count": 2388749,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:6AVLthptCPhfrxlHadOBJD",
+    "name": "Jill Scott",
+    "image_url": "https://i.scdn.co/image/1097b949e7e6a19b7671a0c9932a552fe307e056",
+    "followers_count": 1761922,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3xnDktxhudJR2Wv3HZDQ9W",
+    "name": "John Digweed",
+    "image_url": "https://i.scdn.co/image/ab676161000051744ef0189e07eec59460b46c17",
+    "followers_count": 160834,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2JWmMcE8Z0vapxOIiT7PLq",
+    "name": "John Tejada",
+    "image_url": "https://i.scdn.co/image/ab67616100005174c75ff0430794224980936e33",
+    "followers_count": 50348,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:4FN8WHqUbwkd97WEjoCu7B",
+    "name": "Justin Martin",
+    "image_url": "https://i.scdn.co/image/ab676161000051745899d87d69bd3d3bc46ccae3",
+    "followers_count": 62953,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0illCOhPkFBykngmCWos6u",
+    "name": "Kaho Nakamura",
+    "image_url": "https://i.scdn.co/image/ab67616100005174bae16e6155788b9211d1dfb2",
+    "followers_count": 108995,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5b3ZFm6P1lpZIASMDnBDs9",
+    "name": "Kan Sano",
+    "image_url": "https://i.scdn.co/image/ab67616100005174dc49ac6859f798563fba2ac0",
+    "followers_count": 73093,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:7nqpEU6DCHkNtK1bYsyS3W",
+    "name": "Kerri Chandler",
+    "image_url": "https://i.scdn.co/image/ab67616100005174a8acffcb0f02a43a54c77f40",
+    "followers_count": 97935,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5lDtfHPqWN6MG9tFywnW8J",
+    "name": "Kiefer",
+    "image_url": "https://i.scdn.co/image/ab6761610000517470162dd2995c2f56b289639c",
+    "followers_count": 97650,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5bt7DkWw4iHzjzRF2d9scU",
+    "name": "La Fleur",
+    "image_url": "https://i.scdn.co/image/ab676161000051748c2564653a39f3c182e43eb1",
+    "followers_count": 16776,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0uNEy4544VZq2KOl7BsLuo",
+    "name": "Lalah Hathaway",
+    "image_url": "https://i.scdn.co/image/ab67616100005174795dd1d70b1b36ec6ba1a76f",
+    "followers_count": 428214,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0334oJHhRSKJRHKpE9i62h",
+    "name": "Lee Burridge",
+    "image_url": "https://i.scdn.co/image/ab67616100005174f7fceafa86a742bc4b01cde5",
+    "followers_count": 73048,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0HfxCluo7N2dhr4oRM0wBv",
+    "name": "Luke Vibert",
+    "image_url": "https://i.scdn.co/image/ab6772690000bac3b6b06ad747c6d92a63f7a511",
+    "followers_count": 61519,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:72udTJKu1pGovvS9aCYGMI",
+    "name": "Marc Rebillet",
+    "image_url": "https://i.scdn.co/image/ab67616100005174ac6f689a8d398c34d3d8a412",
+    "followers_count": 515523,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm",
+    "name": "Michael Jackson",
+    "image_url": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa",
+    "followers_count": 31073817,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG",
+    "name": "Migos",
+    "image_url": "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34",
+    "followers_count": 13803406,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2wIVse2owClT7go1WT98tk",
+    "name": "Missy Elliott",
+    "image_url": "https://i.scdn.co/image/ab67616100005174f6691f40d906f097e9fbaa4c",
+    "followers_count": 2463332,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2B0PgHZi2zaDqjKe86Gaip",
+    "name": "Mr. Scruff",
+    "image_url": "https://i.scdn.co/image/99dd01eee6196f013d31b2799610f29efb500c45",
+    "followers_count": 158786,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0OltT51j3hIkgaDJqqPzDn",
+    "name": "Nicola Cruz",
+    "image_url": "https://i.scdn.co/image/ab676161000051742733b3485f1950bd7874fff6",
+    "followers_count": 360799,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5UmHzVC93nysS4WmTmkTpC",
+    "name": "NËITHER",
+    "image_url": "https://i.scdn.co/image/ab67616100005174fa04544f12298224824098c7",
+    "followers_count": 358,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3fJ60AcIgLzQkVitEvA7uq",
+    "name": "Pete Rock \u0026 C.L. Smooth",
+    "image_url": "https://i.scdn.co/image/70386c40cadc6c9d273557ca41f1c13350ccb405",
+    "followers_count": 280866,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0oBsnAC3fzYkTHF3bkfNx6",
+    "name": "Phony Ppl",
+    "image_url": "https://i.scdn.co/image/ab67616100005174b658dcfdfcaf59488eabcdc2",
+    "followers_count": 281196,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+    "name": "Polo \u0026 Pan",
+    "image_url": "https://i.scdn.co/image/ab676161000051740e7d21091454cf9d1207a127",
+    "followers_count": 773123,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3GfY5Rtioe0sfZrwpyFdFA",
+    "name": "Ralph Lawson",
+    "image_url": "https://i.scdn.co/image/ed6b9835d0215ba341f8652543eecef02c9df96a",
+    "followers_count": 1220,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3ni9LX95aVQksOuoHFEbEx",
+    "name": "Reggie Watts",
+    "image_url": "https://i.scdn.co/image/fcbd9799cec0d31bc1434e3b05e788290557e317",
+    "followers_count": 72250,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:6u4jLGLPuarS3i2XWHVxoS",
+    "name": "Sasha",
+    "image_url": "https://i.scdn.co/image/ab67616100005174c9896771673b1734fd7741e0",
+    "followers_count": 112076,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:59luKpdal8UwxcuLJNoKwS",
+    "name": "Scritti Politti",
+    "image_url": "https://i.scdn.co/image/ab67616100005174737ffb7d167c72f925108800",
+    "followers_count": 101136,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3JkLFcTej6tdwZoQT6Nx4B",
+    "name": "Seth Troxler",
+    "image_url": "https://i.scdn.co/image/ab67616100005174ae415c295c042f2193594a8e",
+    "followers_count": 113121,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:1020a42xVklY6c56imNcaa",
+    "name": "Slum Village",
+    "image_url": "https://i.scdn.co/image/ab67616100005174d3e282b54f0709be5376764a",
+    "followers_count": 341379,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:2auiVi8sUZo17dLy1HwrTU",
+    "name": "Solange",
+    "image_url": "https://i.scdn.co/image/ab67616100005174631cf0aa859e5a20e836f14f",
+    "followers_count": 2074067,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0PEfTatx7R08s3nFrn9teD",
+    "name": "Soul Clap",
+    "image_url": "https://i.scdn.co/image/ab67616100005174e376000de4f07b655b1f0ae8",
+    "followers_count": 43019,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y",
+    "name": "Talib Kweli",
+    "image_url": "https://i.scdn.co/image/ab6761610000517439f154678fecfb323d3ef3f9",
+    "followers_count": 599530,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2",
+    "name": "The Beatles",
+    "image_url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+    "followers_count": 27485940,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:7GN9PivdemQRKjDt4z5Zv8",
+    "name": "The Internet",
+    "image_url": "https://i.scdn.co/image/ab67616100005174c32c5dcda378eb561f81b1f9",
+    "followers_count": 1412152,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5EN5PSLo1TWbgFTQwlxKmz",
+    "name": "The Twilite Tone",
+    "image_url": "https://i.scdn.co/image/ab676161000051741314586d6138d8fc3203f42a",
+    "followers_count": 2413,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0nmnnGl422TngJtYeEj5vD",
+    "name": "Tomita Lab.",
+    "image_url": "https://i.scdn.co/image/ab67616100005174f73cc0a30893b97134195e5f",
+    "followers_count": 46253,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0Yh5vHNrVsgQ9UEcj8Rqss",
+    "name": "Wajatta",
+    "image_url": "https://i.scdn.co/image/ab67616100005174df44afae1adc09dc6e855d11",
+    "followers_count": 16974,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn",
+    "name": "Young Thug",
+    "image_url": "https://i.scdn.co/image/ab67616100005174547d2b41c9f2c97318aad0ed",
+    "followers_count": 9962080,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:0XoDNlIZvfQP47lyLBVIsz",
+    "name": "Zo!",
+    "image_url": "https://i.scdn.co/image/ab6761610000517499c71d76b4b47b62672a0d6b",
+    "followers_count": 38305,
+    "is_following": true
+  }, {
+    "uri": "spotify:artist:5muFO8VqYRCRW13EkvX564",
+    "name": "Âme",
+    "image_url": "https://i.scdn.co/image/ab67616100005174bdaa7ff7e4de683ca80a30e7",
+    "followers_count": 130075,
+    "is_following": true
+  }, {
+    "uri": "spotify:user:11122876409",
+    "name": "Zag Erlat",
+    "image_url": "https://i.scdn.co/image/ab6775700000ee85c4fbe52f657c6272a01d3f90",
+    "followers_count": 28715,
+    "is_following": true,
+    "color": 16737335
+  }]
+}
